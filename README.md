@@ -1,0 +1,3 @@
+SOL, W, JUP, PYTH, JTO
+
+观察列表: TON, WLD
